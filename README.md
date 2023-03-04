@@ -1,7 +1,6 @@
 # Mini-Project-1
 Generating Data with noise, Plotting Single file data with best fit curves and Multiple Text File Handling
 
-[mini project 1 multiple file handling.pdf](https://github.com/ashimasapehia/Mini-Project-1/files/10889418/mini.project.1.multiple.file.handling.pdf)
 Objectives:
 
 Generating Data with noise.
@@ -16,3 +15,4 @@ We use the function curve_fit from the python module scipy.optimize to fit our d
 We use for loop for mutiple file handling. Alos we used "for loop" for sorting and arranging data in order and avoid scatterness of the plot.
 
 Adding titles, labels and legends in the plot makes the plot more attractive and presentable.
+[mini project 1 multiple file handling.pdf](https://github.com/ashimasapehia/Mini-Project-1/files/10889426/mini.project.1.multiple.file.handling.pdf)
